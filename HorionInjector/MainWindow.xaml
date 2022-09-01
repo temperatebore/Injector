@@ -86,7 +86,7 @@
             </Label.Style>
         </Label>
 
-        <Image x:Name="Logo" Source="horion-banner.png" Width="300" Margin="0, 0, 0, 80" />
+        <Image x:Name="Logo" Source="horion-banner.png.png" Width="300" Margin="0, 0, 0, 80" />
 
         <wpf:WebView2
 			x:Name="AdView" Visibility="Hidden"
